@@ -1,6 +1,6 @@
 package ch07.sec10.exam03;
 
-public class Employee extends Person{
+public final class Employee extends Person{
 	
 	@Override
 	public void work() {

@@ -1,6 +1,6 @@
 package ch07.sec10.exam03;
 
-public class Manager extends Person{
+public non-sealed class Manager extends Person{
 	
 	@Override
 	public void work() {
