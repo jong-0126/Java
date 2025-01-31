@@ -11,4 +11,4 @@ public class ConstructorReferenceExample {
 		 Member m2 = person.getMember2(Member :: new);
 	 }
 			
- }
+}
